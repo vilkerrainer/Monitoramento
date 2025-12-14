@@ -20,7 +20,7 @@ Monitor em tempo real de CPU, memória, disco e temperatura do sistema para Wind
 ### 1. Clone ou baixe o projeto
 
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/vilkerrainer/Monitoramento.git
 cd monitoramento
 ```
 
